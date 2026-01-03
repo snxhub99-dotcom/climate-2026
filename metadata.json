@@ -1,0 +1,7 @@
+{
+  "name": "Resto Jobs - Premium Hospitality Recruitment",
+  "description": "A premium, AI-powered recruitment platform for the hospitality industry featuring smart salary calculators, AI job requirement generators, and a luxury black/gold UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
